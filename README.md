@@ -2,11 +2,10 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+StackOverflow, ChatGPT
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Student Name                   | CCID     |
+| ------------------------------ | -------- |
+| Mohamed Irfan Mohamed Niyaz    | mmohame6 |
