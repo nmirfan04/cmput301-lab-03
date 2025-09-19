@@ -8,5 +8,4 @@ StackOverflow
 
 | Student Name                   | CCID     |
 | ------------------------------ | -------- |
-| Mohamed Irfan Mohamed Niyaz    | mmohame6 |
 | Abhishekh Jayaprakash          | ajayapra |
